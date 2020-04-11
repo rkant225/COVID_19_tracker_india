@@ -10,7 +10,7 @@ export default {
                     id: 'COVID_19',
                     title: 'COVID_19',
                     type: 'item',
-                    url: '/COVID_19',
+                    url: '/COVID_19_tracker_india',
                     classes: 'nav-item',
                     icon: 'feather icon-sidebar'
                 },

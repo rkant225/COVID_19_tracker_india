@@ -1,6 +1,7 @@
 export default {
-    defaultPath: '/COVID_19',
-    basename: '/react/default', // only at build time to set, like ///able-pro/react/default
+    defaultPath: '/COVID_19_tracker_india',
+    //basename: '/react/default', // only at build time to set, like ///able-pro/react/default
+    basename: '', // only at build time to set, like ///able-pro/react/default
     layout: 'vertical', // vertical, horizontal
     subLayout: '', // horizontal-2
     collapseMenu: false, // mini-menu
